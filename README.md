@@ -1,2 +1,1 @@
-# Detection-of-tool-wear-by-Machine-Learning-Published-Research-Paper
-The code files of my published research paper
+# Tool Wear Detection - 12-way 2-shot Learning Model\nThis repository implements the model proposed in the IJAMT paper.
